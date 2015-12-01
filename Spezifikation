@@ -1,0 +1,12 @@
+High side Load Switch 10A 10-18V.
+Zwei in paraleler schaltung ergeben eine Redundante Power-versorgung.
+
+Optional:
+High side LoadSwitch:
+576-1239-1-ND  -  MIC5021YM-TR
+
+497-11623-1-ND  -  VND5E006ASPTR-E  Alles in einem!
+
+Auf kompatibilität mit dem PWR-Rails achten, eventuell auch direkt in pwr verbauen!
+
+LM26003 - PWR auf 12V
